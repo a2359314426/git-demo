@@ -1,6 +1,3 @@
-/*
- * Copyright (c) Huawei Technologies Co., Ltd. 2020-2020. All rights reserved.
- */
 #include "Algorithms/DecodeH264/DecodeH264.h"
 #include "Algorithms/Base/ModuleCreateFuncMgr.h"
 #include "Algorithms/DecodeH264/DecodeWork.h"
